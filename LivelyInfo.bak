@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.0.0",
+  "Title": "Animated Rooster 3D",
+  "Thumbnail": "preview.jpg",
+  "Preview": "preview.gif",
+  "Desc": "Interactive 3D rooster that follows your cursor",
+  "Author": "@Cesarluque31",
+  "License": "MIT",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "",
+  "IsAbsolutePath": false
+}
