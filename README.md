@@ -2,6 +2,18 @@
 
 Un fondo de pantalla interactivo con un gallo 3D construido con Three.js. El gallo camina, sigue el cursor del mouse y respira de forma natural.
 
+## Vista Previa
+
+![Demo](preview.png)
+
+*El gallo animado con campo de estrellas siguiendo el cursor*
+
+### Demo en acción
+
+![Demo video](demo.webp)
+
+*Grabación mostrando el seguimiento del mouse y animaciones*
+
 ## Características
 
 - **Ciclo de caminata animado** con movimiento realista
@@ -31,7 +43,7 @@ Un fondo de pantalla interactivo con un gallo 3D construido con Three.js. El gal
 
 3. Haz clic en el botón `+` (Add Wallpaper)
 
-4. Selecciona "Web URL/File"
+4. Selecciona "File"
 
 5. Navega hasta la carpeta de este proyecto y selecciona `index.html`
 
